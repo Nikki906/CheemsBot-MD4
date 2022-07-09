@@ -37,10 +37,10 @@ global.APIKeys = {
 global.xteam = 'RiyGanz'
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -57,19 +57,19 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['919755062790'] //ur owner number
 global.ownername = "nick fury"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ytname = "....." //ur yt chanel name
+global.socialm = "....." //ur github or insta name
 global.location = "India, banglore" //ur location
 
 //bot bomdy 
 global.owner = ['919755062790']
 global.ownertag = '919755062790' //ur tag number
 global.botname = 'Nick fury bot V4' //ur bot name
-global.linkz = "https://youtu.be/xn9RatOrbuI" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.linkz = "https://youtu.be/NZFY1EqI7O0" //your theme url which will be displayed on whatsapp
+global.websitex = "....." //ur website to be displayed
+global.botscript = 'https://github.com/Nikki906/CheemsBot-MD4.' //script link
 global.reactmoji = "☠️" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
+global.themeemoji = "🐈‍⬛" //ur theme emoji
 global.packname = "nick fury Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "nick fury" //ur sticker watermark author
 
