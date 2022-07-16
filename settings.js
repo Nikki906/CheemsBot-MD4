@@ -37,10 +37,10 @@ global.APIKeys = {
 global.xteam = 'RiyGanz'
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -57,7 +57,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['919755062790'] //ur owner number
 global.ownername = "nick fury"
-global.ytname = "....." //ur yt chanel name
+global.ytname = "https://youtu.be/NZFY1EqI7O0" //ur yt chanel name
 global.socialm = "....." //ur github or insta name
 global.location = "India, banglore" //ur location
 
@@ -67,10 +67,10 @@ global.ownertag = '919755062790' //ur tag number
 global.botname = 'Nick fury bot V4' //ur bot name
 global.linkz = "https://youtu.be/NZFY1EqI7O0" //your theme url which will be displayed on whatsapp
 global.websitex = "....." //ur website to be displayed
-global.botscript = 'https://github.com/Nikki906/CheemsBot-MD4.' //script link
-global.reactmoji = "☠️" //ur menu react emoji
+global.botscript = '........' //script link
+global.reactmoji = "🐈‍⬛" //ur menu react emoji
 global.themeemoji = "🐈‍⬛" //ur theme emoji
-global.packname = "nick fury Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "nick fury Bot Stickers\n\n☠️☠️☠️ " //ur sticker watermark packname
 global.author = "nick fury" //ur sticker watermark author
 
 //Bot theme media
@@ -107,15 +107,15 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
+    admin: 'ya feature use karna ke lia admin ban bsdk!',
+    botAdmin: 'ADMIN BANA !',
     owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
+    group: 'Sorry i cant help!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
+    wait: 'kal ana...',
     linkm: 'Where is the link?',
-    error: 'Error!!',
+    error: 'khtm!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
